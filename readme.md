@@ -1,4 +1,7 @@
 # Get Started
+
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
 [Accessing public datasets in the Cloud Console](https://cloud.google.com/bigquery/public-data)
 Check out our [**Blocks Directory**](https://looker.com/platform/blocks/directory#data) for a full list of data blocks and use cases
 
